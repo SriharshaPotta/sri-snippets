@@ -1,0 +1,18 @@
+{
+  "body": {
+    "document": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {}
+        }
+      ]
+    },
+    "version": 1
+  },
+  "pluginName": "richtext",
+  "archived": false,
+  "createdAt": 1775086532634,
+  "updatedAt": 1775086532634
+}
