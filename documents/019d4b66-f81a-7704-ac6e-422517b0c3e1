@@ -130,13 +130,7 @@
               "content": [
                 {
                   "type": "paragraph",
-                  "attrs": {},
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "submit taxes (waiting for dad to review)"
-                    }
-                  ]
+                  "attrs": {}
                 }
               ]
             },
@@ -196,5 +190,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094841670
+  "updatedAt": 1775094843987
 }
