@@ -38,9 +38,13 @@
           "content": [
             {
               "type": "text",
-              "text": "IN"
+              "text": "In Progress"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "attrs": {}
         },
         {
           "type": "bullet_list",
@@ -169,5 +173,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094782623
+  "updatedAt": 1775094785863
 }
