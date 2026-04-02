@@ -49,7 +49,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "prepare for CLTP"
+                      "text": "prepare for CLTP 2"
                     }
                   ]
                 }
@@ -176,5 +176,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094876175
+  "updatedAt": 1775094926000
 }
