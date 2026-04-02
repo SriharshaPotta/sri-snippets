@@ -27,12 +27,22 @@
           "attrs": {}
         },
         {
-          "type": "paragraph",
-          "attrs": {},
+          "type": "bullet_list",
           "content": [
             {
-              "type": "text",
-              "text": "- prepare for CLTP"
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {},
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "prepare for CLTP"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -117,5 +127,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094748202
+  "updatedAt": 1775094752100
 }
