@@ -28,16 +28,6 @@
           "content": [
             {
               "type": "text",
-              "text": "- finish taxes"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "attrs": {},
-          "content": [
-            {
-              "type": "text",
               "text": "- finish kibana dashboard"
             }
           ]
@@ -113,5 +103,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775086573707
+  "updatedAt": 1775089662641
 }
