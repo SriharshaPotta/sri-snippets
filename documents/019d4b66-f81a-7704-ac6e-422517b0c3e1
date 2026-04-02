@@ -88,10 +88,6 @@
                 }
               ],
               "text": "In Progress"
-            },
-            {
-              "type": "text",
-              "text": "\\"
             }
           ]
         },
@@ -214,5 +210,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094846129
+  "updatedAt": 1775094848930
 }
