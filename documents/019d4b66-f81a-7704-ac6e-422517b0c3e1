@@ -130,11 +130,6 @@
                   "content": [
                     {
                       "type": "text",
-                      "marks": [
-                        {
-                          "type": "hlred"
-                        }
-                      ],
                       "text": "submit taxes (waiting for dad to review)"
                     }
                   ]
@@ -150,11 +145,6 @@
                   "content": [
                     {
                       "type": "text",
-                      "marks": [
-                        {
-                          "type": "hlred"
-                        }
-                      ],
                       "text": "finish kibana dashboard"
                     }
                   ]
@@ -202,5 +192,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094831394
+  "updatedAt": 1775094833941
 }
