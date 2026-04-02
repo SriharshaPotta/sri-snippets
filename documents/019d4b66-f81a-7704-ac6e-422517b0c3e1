@@ -38,6 +38,11 @@
           "content": [
             {
               "type": "text",
+              "marks": [
+                {
+                  "type": "hlyellow"
+                }
+              ],
               "text": "In Progress"
             }
           ]
@@ -192,5 +197,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094793378
+  "updatedAt": 1775094811994
 }
