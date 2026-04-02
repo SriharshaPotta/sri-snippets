@@ -24,7 +24,13 @@
         },
         {
           "type": "paragraph",
-          "attrs": {}
+          "attrs": {},
+          "content": [
+            {
+              "type": "text",
+              "text": "Nto"
+            }
+          ]
         },
         {
           "type": "bullet_list",
@@ -153,5 +159,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094770283
+  "updatedAt": 1775094778036
 }
