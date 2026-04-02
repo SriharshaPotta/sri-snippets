@@ -86,20 +86,21 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "attrs": {}
-        },
-        {
-          "type": "paragraph",
-          "attrs": {},
-          "content": [
+            },
             {
-              "type": "text",
-              "text": "- finish kibana dashboard"
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {},
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "finish kibana dashboard"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -142,5 +143,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094759751
+  "updatedAt": 1775094763491
 }
