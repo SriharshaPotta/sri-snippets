@@ -28,7 +28,7 @@
           "content": [
             {
               "type": "text",
-              "text": "Nto"
+              "text": "Not Completed"
             }
           ]
         },
@@ -159,5 +159,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094778036
+  "updatedAt": 1775094780635
 }
