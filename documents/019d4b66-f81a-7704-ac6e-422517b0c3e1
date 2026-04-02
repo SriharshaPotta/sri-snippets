@@ -96,6 +96,11 @@
                   "content": [
                     {
                       "type": "text",
+                      "marks": [
+                        {
+                          "type": "hlgreen"
+                        }
+                      ],
                       "text": "finish kibana dashboard"
                     }
                   ]
@@ -143,5 +148,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094763491
+  "updatedAt": 1775094766892
 }
