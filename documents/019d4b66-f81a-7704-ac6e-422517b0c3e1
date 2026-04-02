@@ -33,6 +33,16 @@
           ]
         },
         {
+          "type": "paragraph",
+          "attrs": {},
+          "content": [
+            {
+              "type": "text",
+              "text": "IN"
+            }
+          ]
+        },
+        {
           "type": "bullet_list",
           "content": [
             {
@@ -159,5 +169,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094780635
+  "updatedAt": 1775094782623
 }
