@@ -38,8 +38,39 @@
           ]
         },
         {
-          "type": "paragraph",
-          "attrs": {}
+          "type": "bullet_list",
+          "content": [
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {},
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "prepare for CLTP"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {},
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "complete SE Lab Week 1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "type": "paragraph",
@@ -82,41 +113,6 @@
         {
           "type": "paragraph",
           "attrs": {}
-        },
-        {
-          "type": "bullet_list",
-          "content": [
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "attrs": {},
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "prepare for CLTP"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "attrs": {},
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "complete SE Lab Week 1"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
         },
         {
           "type": "paragraph",
@@ -200,5 +196,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094838592
+  "updatedAt": 1775094841670
 }
