@@ -28,11 +28,6 @@
           "content": [
             {
               "type": "text",
-              "marks": [
-                {
-                  "type": "hlgrape"
-                }
-              ],
               "text": "- prepare for CLTP"
             }
           ]
@@ -112,5 +107,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094721478
+  "updatedAt": 1775094724944
 }
