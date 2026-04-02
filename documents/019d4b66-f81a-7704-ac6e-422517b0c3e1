@@ -104,6 +104,9 @@
                     {
                       "type": "text",
                       "text": "submit taxes (waiting for dad to review)"
+                    },
+                    {
+                      "type": "hard_break"
                     }
                   ]
                 }
@@ -210,5 +213,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094848930
+  "updatedAt": 1775094850526
 }
