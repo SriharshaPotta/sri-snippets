@@ -81,6 +81,11 @@
                   "content": [
                     {
                       "type": "text",
+                      "marks": [
+                        {
+                          "type": "hlyellow"
+                        }
+                      ],
                       "text": "submit taxes (waiting for dad to review)"
                     }
                   ]
@@ -148,5 +153,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094766892
+  "updatedAt": 1775094770283
 }
