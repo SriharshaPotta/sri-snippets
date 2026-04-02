@@ -141,7 +141,7 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Finish Kibana dashboard"
+                      "text": "finish kibana dashboard"
                     }
                   ]
                 }
@@ -176,5 +176,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094872876
+  "updatedAt": 1775094876175
 }
