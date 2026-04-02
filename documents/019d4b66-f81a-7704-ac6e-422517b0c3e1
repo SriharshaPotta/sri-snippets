@@ -54,15 +54,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "attrs": {}
-                }
-              ]
             }
           ]
         },
@@ -185,5 +176,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775149635890
+  "updatedAt": 1775149638456
 }
