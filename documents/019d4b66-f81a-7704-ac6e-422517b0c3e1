@@ -24,10 +24,6 @@
         },
         {
           "type": "paragraph",
-          "attrs": {}
-        },
-        {
-          "type": "paragraph",
           "attrs": {},
           "content": [
             {
@@ -111,5 +107,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094707780
+  "updatedAt": 1775094711827
 }
