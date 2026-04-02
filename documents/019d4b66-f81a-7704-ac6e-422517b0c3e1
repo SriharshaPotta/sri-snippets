@@ -28,6 +28,11 @@
           "content": [
             {
               "type": "text",
+              "marks": [
+                {
+                  "type": "hlred"
+                }
+              ],
               "text": "Not Completed"
             }
           ]
@@ -197,5 +202,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094811994
+  "updatedAt": 1775094816743
 }
