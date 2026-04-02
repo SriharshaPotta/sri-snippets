@@ -60,7 +60,7 @@
           "content": [
             {
               "type": "text",
-              "text": "submit taxes (waiting for dad to review)"
+              "text": "- submit taxes (waiting for dad to review)"
             }
           ]
         },
@@ -117,5 +117,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094745848
+  "updatedAt": 1775094748202
 }
