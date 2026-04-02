@@ -52,7 +52,7 @@
           "content": [
             {
               "type": "text",
-              "text": "- complete SE Lab Week 1"
+              "text": "complete SE Lab Week 1"
             }
           ]
         },
@@ -127,5 +127,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094752100
+  "updatedAt": 1775094755459
 }
