@@ -24,13 +24,7 @@
         },
         {
           "type": "paragraph",
-          "attrs": {},
-          "content": [
-            {
-              "type": "text",
-              "text": "- finish kibana dashboard"
-            }
-          ]
+          "attrs": {}
         },
         {
           "type": "paragraph",
@@ -117,5 +111,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775089674641
+  "updatedAt": 1775094707780
 }
