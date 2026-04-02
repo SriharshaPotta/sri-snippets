@@ -60,13 +60,7 @@
               "content": [
                 {
                   "type": "paragraph",
-                  "attrs": {},
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "complete SE Lab Week 1"
-                    }
-                  ]
+                  "attrs": {}
                 }
               ]
             }
@@ -176,5 +170,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094926000
+  "updatedAt": 1775149634741
 }
