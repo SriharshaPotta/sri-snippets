@@ -130,33 +130,8 @@
           ]
         },
         {
-          "type": "paragraph",
-          "attrs": {}
-        },
-        {
-          "type": "paragraph",
-          "attrs": {}
-        },
-        {
-          "type": "paragraph",
-          "attrs": {}
-        },
-        {
-          "type": "paragraph",
-          "attrs": {}
-        },
-        {
           "type": "bullet_list",
           "content": [
-            {
-              "type": "list_item",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "attrs": {}
-                }
-              ]
-            },
             {
               "type": "list_item",
               "content": [
@@ -213,5 +188,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094850526
+  "updatedAt": 1775094855685
 }
