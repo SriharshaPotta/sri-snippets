@@ -66,7 +66,7 @@
           "content": [
             {
               "type": "text",
-              "text": "submit taxes ("
+              "text": "submit taxes (waitin"
             }
           ]
         },
@@ -117,5 +117,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775089668592
+  "updatedAt": 1775089669770
 }
