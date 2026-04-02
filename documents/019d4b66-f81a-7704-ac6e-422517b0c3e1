@@ -132,7 +132,7 @@
                       "type": "text",
                       "marks": [
                         {
-                          "type": "hlyellow"
+                          "type": "hlred"
                         }
                       ],
                       "text": "submit taxes (waiting for dad to review)"
@@ -152,7 +152,7 @@
                       "type": "text",
                       "marks": [
                         {
-                          "type": "hlgreen"
+                          "type": "hlred"
                         }
                       ],
                       "text": "finish kibana dashboard"
@@ -202,5 +202,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094827710
+  "updatedAt": 1775094831394
 }
