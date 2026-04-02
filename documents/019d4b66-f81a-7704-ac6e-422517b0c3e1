@@ -55,12 +55,22 @@
           "attrs": {}
         },
         {
-          "type": "paragraph",
-          "attrs": {},
+          "type": "bullet_list",
           "content": [
             {
-              "type": "text",
-              "text": "submit taxes (waiting for dad to review)"
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {},
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "submit taxes (waiting for dad to review)"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -117,5 +127,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094741070
+  "updatedAt": 1775094744393
 }
