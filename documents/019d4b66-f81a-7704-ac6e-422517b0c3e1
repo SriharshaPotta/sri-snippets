@@ -140,6 +140,21 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "list_item",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "attrs": {},
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "complete SE Lab Week 1"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -170,5 +185,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775149634741
+  "updatedAt": 1775149635890
 }
