@@ -87,11 +87,6 @@
                   "content": [
                     {
                       "type": "text",
-                      "marks": [
-                        {
-                          "type": "hlred"
-                        }
-                      ],
                       "text": "prepare for CLTP"
                     }
                   ]
@@ -107,11 +102,6 @@
                   "content": [
                     {
                       "type": "text",
-                      "marks": [
-                        {
-                          "type": "hlred"
-                        }
-                      ],
                       "text": "complete SE Lab Week 1"
                     }
                   ]
@@ -212,5 +202,5 @@
   "pluginName": "richtext",
   "archived": false,
   "createdAt": 1775086532634,
-  "updatedAt": 1775094819805
+  "updatedAt": 1775094825765
 }
